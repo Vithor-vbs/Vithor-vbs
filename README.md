@@ -15,7 +15,7 @@
 <!--   <img align="center" alt="-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
 <!--   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
   
-  ![chad](https://user-images.githubusercontent.com/69211568/167498355-50c4c5a3-e9f1-4acf-875d-3e80f846db13.gif)
+  <img align="right" alt="chad-gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/945800647037566988/973340029843832872/chad.gif">
   
 </div>
  
@@ -29,4 +29,6 @@
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+   ![Snake animation](https://github.com/Vithor-vbs/Vithor-vbs/blob/output/github-contribution-grid-snake.svg)
+
  </nav>
