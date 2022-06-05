@@ -16,7 +16,7 @@
 <!--   <img align="center" alt="-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
 <!--   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
   
-  <img align="right" alt="chad-gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/945800647037566988/973340029843832872/chad.gif">
+  <img align="right" alt="chad-gif" height="150" style="border-radius:50px;" src="https://discordapp.com/channels/@me/945800647037566988/973340030074511420">
   
 </div>
  
