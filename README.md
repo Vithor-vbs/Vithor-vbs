@@ -16,8 +16,9 @@
 <!--   <img align="center" alt="-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   
- <img align="right" alt="chad-gif" height="150" style="border-radius:50px;" src="https://github.com/Vithor-vbs/resources/blob/master/chad.gif"> 
-  
+<!--  <img align="right" alt="chad-gif" height="150" style="border-radius:50px;" src="https://github.com/Vithor-vbs/resources/blob/master/chad.gif"> 
+   -->
+  ![](https://github.com/Vithor-vbs/resources/blob/master/chad.gif)
 </div>
  
  ##
