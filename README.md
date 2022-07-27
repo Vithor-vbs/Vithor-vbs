@@ -1,16 +1,6 @@
 ### Welcome to my profile. I'm Vithor, nice to meet you 🤝
 ##
 
-  <p>
-  <img
-    align="right"
-    alt="chad-gif"
-    height="150"
-    width="150"
-    src="https://github.com/Vithor-vbs/resources/blob/master/chad.gif"
-  />
-</p>
-
 <div align="center">
   <a href="https://github.com/Vithor-vbs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vithor-vbs&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
@@ -22,6 +12,17 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <!--   <img align="center" alt="-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
+
+  <p>
+  <img
+    align="right"
+    alt="chad-gif"
+    height="150"
+    width="150"
+    src="https://github.com/Vithor-vbs/resources/blob/master/chad.gif"
+  />
+</p>
+
 
 
 
