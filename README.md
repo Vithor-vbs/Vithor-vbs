@@ -16,7 +16,7 @@
 <!--   <img align="center" alt="-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   
- <img align="right" alt="chad-gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/987052146363088967/989679301890801664/chad.gif"> 
+ <img align="right" alt="chad-gif" height="150" style="border-radius:50px;" src="https://github.com/Vithor-vbs/resources/blob/master/chad.gif"> 
   
 </div>
  
@@ -24,7 +24,7 @@
   
 <nav> 
 <!--  
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
  	
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:vithorvilas12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
