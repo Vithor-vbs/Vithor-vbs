@@ -1,9 +1,9 @@
 ### Welcome to my profile. I'm Vithor, nice to meet you 🤝
 ##
 
-<p>
+  <p>
   <img
-    align="center"
+    align="right"
     alt="chad-gif"
     height="150"
     width="150"
@@ -11,12 +11,10 @@
   />
 </p>
 
-
 <div align="center">
   <a href="https://github.com/Vithor-vbs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vithor-vbs&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
 
-  
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vithor-vbs&layout=compact&langs_count=7&theme=gotham"/>
 </div>
