@@ -1,14 +1,7 @@
 ### Welcome to my profile. I'm Vithor, nice to meet you 🤝
 ##
 
-  <div align="center">
-  <img
-    alt="chad-gif"
-    height="150"
-    width="150"
-    src="https://github.com/Vithor-vbs/resources/blob/master/chad.gif"
-  />
-</div>
+  
 
 
 <div align="center">
