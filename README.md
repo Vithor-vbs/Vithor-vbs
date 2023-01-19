@@ -13,10 +13,10 @@
 
 <div align="center">
   <a href="https://github.com/Vithor-vbs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vithor-vbs&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
 
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vithor-vbs&layout=compact&langs_count=7&theme=gotham"/>
+  ![Vithor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vithor-vbs&show_icons=true&theme=transparent&count_private=true)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vithor-vbs)](https://github.com/Vithor-vbs/github-readme-stats)
 </div>
 
 
