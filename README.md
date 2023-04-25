@@ -16,7 +16,7 @@
 
   ![Vithor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vithor-vbs&show_icons=true&theme=transparent&count_private=true)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vithor-vbs)](https://github.com/Vithor-vbs/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=transparent&hide_border=false&username=Vithor-vbs" height="200" alt="languages graph"  />
 </div>
 
 
